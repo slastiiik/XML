@@ -1,1 +1,11 @@
-
+<xml>
+<Summary>"Постоянное чихание"</Summary>
+  <Project>"Настя"</Project>
+  <Component>"Носоглотка"</Component>
+  <Version>"1.20" </Version>
+  <Severity>"S5 Trivial"</Severity>
+  <Priority>"P3 Low"</Priority>
+  <Status>"New"</Status>
+  <Author>"Anastasia" </Author>
+  <Assigned To>"Anastasia"</Assigned To>
+  <Description>"Баг был найден дома, эта ошибка появилась из-за аллергии или пыли, достаточно глубоко вдохнуть и ошибка повторится, результат ошибки: чихание, ожидаемый результат: отсутствие чихания"</Description>
