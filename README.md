@@ -135,4 +135,4 @@ Make Commit changes (save) changes on the web interface.
 
 Synchronize remote and local XML repository
 
-	git pull (чтобы проверить все ли правильно синхронизировалось используется команда git fetch)
+	git pull (to check if everything is synced correctly use the git fetch command)
